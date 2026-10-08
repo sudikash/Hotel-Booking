@@ -1,4 +1,4 @@
-# 🏨 Grand Horizon — Luxury Hotel Booking Platform
+# 🏨 StayLuxe Home — Luxury Hotel Booking Platform
 
 [![React](https://img.shields.io/badge/React-19-blue?logo=react&logoColor=white)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-8-purple?logo=vite&logoColor=white)](https://vitejs.dev/)
@@ -360,5 +360,7 @@ The generated files in `client/dist` are automatically served as static files by
 
 ## 📄 License
 
-This project is licensed under the **ISC License**.#   H o t e l - B o o k i n g  
+This project is licensed under the **ISC License**.#   H o t e l - B o o k i n g 
+ 
+ #   H o t e l - B o o k i n g  
  
